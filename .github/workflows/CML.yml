@@ -18,6 +18,6 @@ jobs:
           cat metrics.txt >> report.md
           git config --global user.email "wassilachamekh.alg@gmail.com"
           git config --global user.name "wassila"
-          git add reports.md metrics.txt
+          git add report.md metrics.txt
           git commit -m "pousser vers github repository"
           git push origin HEAD:master
