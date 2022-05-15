@@ -1,0 +1,5 @@
+[core]
+    no_scm = True
+    remote = mondataremote
+['remote "mondataremote"']
+    url = https://drive.google.com/drive/u/0/folders/15g3dawDsSkNF0UyqErAXV8CNIZhwTgID
